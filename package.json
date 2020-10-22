@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.4.0",
-    "eslint": "^7.11.0"
+    "eslint": "^7.11.0",
+    "fs": "0.0.1-security",
+    "node-osu": "^2.2.0"
   }
 }
